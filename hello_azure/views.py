@@ -20,3 +20,8 @@ def hello(request):
             return render(request, 'hello_azure/hello.html', context)
     else:
         return redirect('index')
+
+
+
+def newhome(request):
+    return render(request,'hello_azure/newhome.html')
