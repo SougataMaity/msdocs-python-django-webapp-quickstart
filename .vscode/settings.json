@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9a0792f6-a232-44c6-bc38-e18f53792073/resourceGroups/learn-f8b29a41-a7ea-4e8a-9145-261edae8db37/providers/Microsoft.Web/sites/testingdemoappdjangoazure",
+    "appService.deploySubpath": "."
+}
